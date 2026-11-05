@@ -90,3 +90,7 @@ python main.py \
 - `metrics.py`: evaluation metrics
 - `plot.py`: ROC and precision–recall plots
 - `config.py`: command-line configuration
+
+
+Note:
+For additional details on the PTNC test-set evaluation, please see the PTNC_evalution_64compounds.md.
