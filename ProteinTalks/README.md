@@ -93,4 +93,4 @@ python main.py \
 
 
 Note:
-For additional details on the PTNC test-set evaluation, please see the PTNC_evalution_64compounds.md.
+For additional details on the PTNC test-set evaluation, please see PTNC_evaluation_64compounds.md.
